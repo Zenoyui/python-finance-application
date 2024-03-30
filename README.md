@@ -13,7 +13,6 @@
 ## Начало работы
 Чтобы запустить эту программу, вам потребуется Python версии 3.x. Клонируйте репозиторий и запустите приложение:
 
-bash
 git clone https://github.com/zenoyui/python-finance-application
 cd python-finance-application
 python finance_application.py
@@ -21,7 +20,7 @@ python finance_application.py
 ## Взаимодействие с программой
 При запуске приложения пользователи увидят следующий начальный экран:
 
-text
+
 Выберите действие:
 1. Ввод данных
 2. Отчет
